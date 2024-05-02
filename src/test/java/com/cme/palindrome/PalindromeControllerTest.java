@@ -1,7 +1,7 @@
 package com.cme.palindrome;
 
-import com.test.palindrome.api.PalindromeCheckerAPIController;
-import com.test.palindrome.service.PalindromeService;
+import com.cme.palindrome.api.PalindromeCheckerAPIController;
+import com.cme.palindrome.service.PalindromeService;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

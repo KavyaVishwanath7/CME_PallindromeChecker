@@ -1,6 +1,6 @@
 package com.cme.palindrome;
 
-import com.test.palindrome.common.PalindromeObject;
+import com.cme.palindrome.common.PalindromeObject;
 
 public class PalindromeTestMockData {
 
