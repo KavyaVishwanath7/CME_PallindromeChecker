@@ -1,0 +1,7 @@
+[{"userName":"kavya1","textValue":"kayakayak","isPalindrome":true},
+  {"userName":"kavya","textValue":"kayaayak","isPalindrome":true},
+  {"userName":"kavya","textValue":"kayk","isPalindrome":false},
+  {"userName":"kavya","textValue":"kaak","isPalindrome":true},
+  {"userName":"kavya Vishwanath","textValue":"","isPalindrome":true},
+  {"userName":"kavya Vishwanath","textValue":"kayak","isPalindrome":true},
+  {"userName":"kavya Vishwanath","textValue":"wow","isPalindrome":true}]
